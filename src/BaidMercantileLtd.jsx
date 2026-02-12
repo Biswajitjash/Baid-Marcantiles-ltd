@@ -90,7 +90,7 @@ const BaidMercantileLtd = () => {
             <p>
               BAID MERCANTILES LTD is a Non-Banking Financial Company
               incorporated under the Companies Act, 1956 and listed on
-              The Calcutta Stock Exchange Ltd.
+              The Calcutta Stock Exchange Ltd. The Company is engaged in the business of making long-term and short-term investments, without accepting public deposits.
             </p>
 
             <h3 className="sub-title">Board of Directors</h3>
@@ -139,6 +139,98 @@ const BaidMercantileLtd = () => {
                 </tbody>
               </table>
             </div>
+
+            <h3 className="sub-title">Audit Committee</h3>
+
+            <div className="table-wrapper">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Sl No.</th>
+                    <th>Name of the Member(s)</th>
+                    <th>Category</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>1</td>
+                    <td>Ashwani Agarwal</td>
+                    <td>Chairman</td>
+                  </tr>
+                  <tr>
+                    <td>2</td>
+                    <td>Ashish Kumar Upadhyay</td>
+                    <td>Member</td>
+                  </tr>
+                  <tr>
+                    <td>3</td>
+                    <td>Jayesh Maitra Majumder</td>
+                    <td>Member</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+            <h3 className="sub-title">Nomination & Remuneration Committee</h3>
+            <div className="table-wrapper">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Sl No.</th>
+                    <th>Name of the Member(s)</th>
+                    <th>Category</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>1</td>
+                    <td>Ashwani Agarwal</td>
+                    <td>Chairman</td>
+                  </tr>
+                  <tr>
+                    <td>2</td>
+                    <td>Ashish Kumar Upadhyay</td>
+                    <td>Member</td>
+                  </tr>
+                  <tr>
+                    <td>3</td>
+                    <td>Jayesh Maitra Majumder</td>
+                    <td>Member</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+            <h3 className="sub-title">Stakeholders’ Relationship Committee</h3>
+            <div className="table-wrapper">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Sl No.</th>
+                    <th>Name of the Member(s)</th>
+                    <th>Category</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>1</td>
+                    <td>Ashwani Agarwal</td>
+                    <td>Chairman</td>
+                  </tr>
+                  <tr>
+                    <td>2</td>
+                    <td>Ashish Kumar Upadhyay</td>
+                    <td>Member</td>
+                  </tr>
+                  <tr>
+                    <td>3</td>
+                    <td>Jayesh Maitra Majumder</td>
+                    <td>Member</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
           </>
         )}
 
@@ -178,30 +270,66 @@ const BaidMercantileLtd = () => {
                     ))}
                   </div>
                 )}
+
+                <div style={{ height: "10px" }}>
+
+                </div>
+                
               </div>
             ))}
+          
+           <>
+            <h5 className="page-title">Contact Information of Designated Officials for handling Investor Grievance:</h5>
+
+            <div className="contact-box">
+              <p><strong>Niche Technologies Pvt. Ltd.</strong></p>
+              <p>Registrar and Share Transfer Agents of the Company</p>
+              <p>Address: 3A Auckland Place, 7th Floor, Kolkata – 700017</p>
+              <p>E-mail Id: nichetechpl@nichetechpl.com</p>
+              <p>Phone No.: 033-22806616 / 17 / 18</p>
+            </div>
+
+
+
+
+
+
+
+            <div className="contact-box">
+              <p><strong>Ms. Uma Agrawal</strong></p>
+              <p>Company Secretary & Compliance Officer</p>
+              <p>Baid Mercantiles Limited</p>
+              <p>Address: 58 Elliot Road, 2nd Floor, Kolkata – 700016</p>
+              <p>E-mail Id: baidmercantiles1988@gmail.com</p>
+              <p>Phone No.: +91-8336989140</p>
+            </div>
+          </>
+
+
+
+          
           </>
         )}
 
         {/* CONTACT */}
         {activeSection === "contact" && (
           <>
-            <h2 className="page-title">Contact</h2>
+            <h2 className="page-title">CONTACT US</h2>
 
             <div className="contact-box">
-              <p><strong>Niche Technologies Pvt. Ltd.</strong></p>
-              <p>3A Auckland Place, Kolkata - 700017</p>
-              <p>Email: nichetechpl@nichetechpl.com</p>
-              <p>Phone: 033-22806616</p>
+              <p><strong>Baid Mercantiles Limited</strong></p>
+              <p>Address: 58 Elliot Road, 2nd Floor, Kolkata – 700016</p>
+              <p>E-mail Id: baidmercantiles1988@gmail.com</p>
+              <p>Phone No.: +91-8336989140</p>
             </div>
 
-            <div className="contact-box">
+            {/* <div className="contact-box">
               <p><strong>Ms. Uma Agrawal</strong></p>
               <p>Company Secretary</p>
               <p>Kolkata - 700016</p>
               <p>Email: baidmercantiles1988@gmail.com</p>
               <p>Phone: +91-8336989140</p>
-            </div>
+            </div> */}
           </>
         )}
       </main>
@@ -344,9 +472,9 @@ const BaidMercantileLtd = () => {
         }
 
         .contact-box {
-          background: white;
-          padding: 10px;
-          margin-bottom: 10px;
+          background: ;
+          padding: 0px;
+          margin-bottom: 0px;
           border-radius: 5px;
           border: 1px solid #ddd;
         }
