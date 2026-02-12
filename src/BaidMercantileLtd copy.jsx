@@ -5,9 +5,9 @@ import investorDataJson from './investorData.json';
 
 const BaidMercantileLtd = () => {
 const [expandedSections, setExpandedSections] = useState({});
-  const [activeDropdown, setActiveDropdown] = useState(null);
-  const [hoveredLink, setHoveredLink] = useState(null);
-  const [viewSection, setViewSection] = useState(null);
+  // const [activeDropdown, setActiveDropdown] = useState(null);
+  // const [hoveredLink, setHoveredLink] = useState(null);
+  // const [viewSection, setViewSection] = useState(null);
   const [activeSection, setActiveSection] = useState("about");
 
   const investorData = investorDataJson.sections.filter(section => section.enabled);
