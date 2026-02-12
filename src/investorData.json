@@ -1,0 +1,183 @@
+{
+  "sections": [
+    {
+      "id": "annual-reports",
+      "title": "Annual Reports",
+      "enabled": true,
+      "links": [
+        {
+          "year": "Financial Year 2024 - 2025",
+          "url": "/reports/Annual Report/Baid Mercantiles Ltd_Annual Report_2024-25.pdf"
+ 
+        },
+        {
+          "year": "Financial Year 2023 - 2024",
+          "url": "/reports/Annual Report/Baid Mercantiles Ltd_Annual Report_2023-24.pdf"
+        },
+        {
+          "year": "Financial Year 2022 - 2023",
+          "url": "/reports/Annual Report/Baid Mercantiles Ltd_Annual Report_2022-23.pdf"
+        }
+      ]
+    },
+    {
+      "id": "annual-returns",
+      "title": "Annual Returns",
+      "enabled": true,
+      "links": [
+        {
+          "year": "Financial Year  2024 - 2025",
+          "url": "/reports/Annual Return/Form_MGT-7_Baid Mercantiles_31.03.2025.pdf"
+        },
+        {
+          "year": "Financial Year 2023 - 2024",
+          "url": "/reports/Annual Return/Form_MGT-7_Baid Mercantiles_31.03.2024.pdf"
+        },
+        {
+          "year": "Financial Year 2022 - 2023",
+          "url": "/reports/Annual Return/Form_MGT-7_Baid Mercantiles_31.03.2023.pdf"
+        }
+      ]
+    },
+    {
+      "id": "quarterly-Financial Statements",
+      "title": "Quarterly Financial Statements",
+      "enabled": true,
+      "links": [
+        {
+          "year": "Financial Statement for Quarter ended December 2025",
+          "url": "/reports/Quarterly Financial Statement/Quaterly Financial Statement_31st December 2025.pdf"
+        },
+        {
+          "year": "Financial Statement for Quarter ended September 2025",
+          "url": "/reports/Quarterly Financial Statement/Quaterly Financial Statement_30th September 2025.pdf"
+        },
+        {
+          "year": "Financial Statement for the Quarter ended June 2025",
+          "url": "/reports/Quarterly Financial Statement/Quaterly Financial Statement_30th June 2025.pdf"
+        },
+        {
+          "year": "Financial Statement for the Quarter ended March 2025",
+          "url": "/reports/Quarterly Financial Statement/Quaterly Financial Statement_31st March 2025.pdf"
+        },
+        {
+          "year": "Financial Statement for the Quarter ended December 2024",
+          "url": "/reports/Quarterly Financial Statement/Quaterly Financial Statement_31st December 2024.pdf"
+        },
+        {
+          "year": "Financial Statement for the Quarter ended September 2024",
+          "url": "/reports/Quarterly Financial Statement/Quaterly Financial Statement_ 30th September 2024.pdf"
+        }
+      ]
+    },
+    {
+      "id": "corporate-governance",
+      "title": "Corporate Governance",
+      "enabled": false,
+      "links": [
+        {
+          "year": "Corporate Governance Report for the Quarter ended September 2024",
+          "url": "/reports/governance/q2-2024.pdf"
+        },
+        {
+          "year": "Corporate Governance Report for the Quarter ended June 2024",
+          "url": "/reports/governance/q1-2024.pdf"
+        },
+        {
+          "year": "Corporate Governance Report for the Quarter ended March 2024",
+          "url": "/reports/governance/q4-2023.pdf"
+        }
+      ]
+    },
+    
+    {
+      "id": "reconciliation-of-share-capital-auditors-report",
+      "title": "Reconciliation of Share Capital & Auditors Report",
+      "enabled": true,
+      "links": [
+         {
+          "year": "Share Capital & Auditors Report for Quarter ended December 2025",
+          "url": "/reports/RSCA/Reconciliation of Share capital Audit_31st December 2025.pdf"
+        },
+        {
+          "year": "Share Capital & Auditors Report for Quarter ended September 2025",
+          "url": "/reports/RSCA/Reconciliation of Share capital Audit_30th September 2025.pdf"
+        },
+        {
+          "year": "Share Capital & Auditors Report for Quarter ended June 2025",
+          "url": "/reports/RSCA/Reconciliation of Share capital Audit_30th June 2025.pdf"
+        },
+        { 
+          "year": "Share Capital & Auditors Report for Quarter ended March 2025",
+          "url": "/reports/RSCA/Reconciliation of Share capital Audit_31th March 2025.pdf"
+        },
+        {
+          "year": "Share Capital & Auditors Report for Quarter ended December 2024",
+          "url": "/reports/RSCA/Reconciliation of Share capital Audit_31st December 2024.pdf"
+        },
+        {
+          "year": "Share Capital & Auditors Report for Quarter ended September 2024",
+          "url": "/reports/RSCA/Reconciliation of Share capital Audit_30th September 2024.pdf"
+        }
+      ]
+    },
+    {
+      "id": "shareholding-pattern",
+      "title": "Shareholding Pattern",
+      "enabled": true,
+      "links": [
+        {
+          "year": "Shareholding Pattern December 2025",
+          "url": "/reports/Shareholding Pattern/Shareholding Pattern as on 2025-12-31.pdf"
+        },
+        {
+          "year": "Shareholding Pattern September 2025",
+          "url": "/reports/Shareholding Pattern/Shareholding Pattern as on 2025-09-30.pdf"
+        },
+        {
+          "year": "Shareholding Pattern June 2025",
+          "url": "/reports/Shareholding Pattern/Shareholding Pattern as on 2025-06-30.pdf"
+        },
+        {
+          "year": "Shareholding Pattern March 2025",
+          "url": "/reports/Shareholding Pattern/Shareholding Pattern as on 2025-03-31.pdf"
+        },
+        {
+          "year": "Shareholding Pattern December 2024",
+          "url": "/reports/Shareholding Pattern/Shareholding Pattern as on 2024-12-31.pdf"
+        },
+        {
+          "year": "Shareholding Pattern September 2024",
+          "url": "/reports/Shareholding Pattern/Shareholding Pattern as on 2024-09-30.pdf"
+        }
+      ]
+    },
+    {
+      "id": "policies",
+      "title": "Policies",
+      "enabled": false,
+      "links": [
+        {
+          "year": "Risk Management Policy",
+          "url": "/reports/policies/risk-management.pdf"
+        },
+        {
+          "year": "Nomination and Remuneration Policy",
+          "url": "/reports/policies/nomination-remuneration.pdf"
+        },
+        {
+          "year": "Code of Conduct and Ethics",
+          "url": "/reports/policies/code-of-conduct.pdf"
+        },
+        {
+          "year": "Corporate Social Responsibility",
+          "url": "/reports/policies/csr.pdf"
+        },
+        {
+          "year": "Whistle Blower Policy / Vigil Mechanism Policy",
+          "url": "/reports/policies/whistle-blower.pdf"
+        }
+      ]
+    }
+  ]
+}
