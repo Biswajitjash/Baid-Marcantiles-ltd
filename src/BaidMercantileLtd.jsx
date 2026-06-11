@@ -15,7 +15,7 @@ const BaidMercantileLtd = () => {
     logoUrl: "/images/company-logo.jpg",
     cin: "L70109WB1988PLC044591",
     copyright:
-      "© 2025 BAID MERCANTILES LIMITED. All rights reserved.",
+      "© 2026 BAID MERCANTILES LIMITED. All rights reserved.",
   };
 
   const toggleSection = (id) => {

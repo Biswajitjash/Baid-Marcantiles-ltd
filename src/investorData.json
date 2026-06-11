@@ -45,6 +45,10 @@
       "enabled": true,
       "links": [
         {
+          "year": "Financial Statement for the Quarter ended March 2026",
+          "url": "/reports/Quarterly Financial Statement/Quaterly Financial Statement_31st March 2026.pdf"
+        },
+        {
           "year": "Financial Statement for Quarter ended December 2025",
           "url": "/reports/Quarterly Financial Statement/Quaterly Financial Statement_31st December 2025.pdf"
         },
@@ -95,7 +99,11 @@
       "title": "Reconciliation of Share Capital & Auditors Report",
       "enabled": true,
       "links": [
-         {
+         { 
+          "year": "Share Capital & Auditors Report for Quarter ended March 2026",
+          "url": "/reports/RSCA/Reconciliation of Share capital Audit_31th March 2026.pdf"
+        },
+        {
           "year": "Share Capital & Auditors Report for Quarter ended December 2025",
           "url": "/reports/RSCA/Reconciliation of Share capital Audit_31st December 2025.pdf"
         },
@@ -126,6 +134,10 @@
       "title": "Shareholding Pattern",
       "enabled": true,
       "links": [
+        {
+          "year": "Shareholding Pattern March 2026",
+          "url": "/reports/Shareholding Pattern/Shareholding Pattern as on 2026-03-31.pdf"
+        },
         {
           "year": "Shareholding Pattern December 2025",
           "url": "/reports/Shareholding Pattern/Shareholding Pattern as on 2025-12-31.pdf"
