@@ -13,7 +13,7 @@ const BaidMercantileLtd = () => {
   const clientInfo = {
     companyName: "BAID MERCANTILES LIMITED",
     logoUrl: "/images/company-logo.jpg",
-    cin: "L70109WB1988PLC044591",
+    cin: "U70109WB1988PLC044591",
     copyright:
       "© 2026 BAID MERCANTILES LIMITED. All rights reserved.",
   };
@@ -85,7 +85,7 @@ const BaidMercantileLtd = () => {
             <p style={{ marginTop: "-15px" }}>
               <strong>BAID MERCANTILES LIMITED</strong>
             </p>
-            <p style={{ marginTop: "-15px", fontSize: "12px" }}>CIN: L70109WB1988PLC044591</p>
+            <p style={{ marginTop: "-15px", fontSize: "12px" }}>CIN: U70109WB1988PLC044591</p>
 
             <p style={{ marginTop: "-5px", fontSize: "12px", lineHeight: "1.2" }}>
               BAID MERCANTILES LTD is a Non-Banking Financial Company
@@ -124,7 +124,8 @@ const BaidMercantileLtd = () => {
                     <td>Director</td>
                     <td>Independent Director</td>
                   </tr>
-                  <tr>
+                  
+                  {/* <tr>
                     <td>4</td>
                     <td>Ashish Kumar Upadhyay</td>
                     <td>Director</td>
@@ -135,12 +136,13 @@ const BaidMercantileLtd = () => {
                     <td>Sabita Khandelwal</td>
                     <td>Whole-time Director & CFO</td>
                     <td>Executive Director</td>
-                  </tr>
+                  </tr> */}
+
                 </tbody>
               </table>
             </div>
 
-            <h3 style={{ marginTop: "10px", marginBottom: "-8px" }} className="sub-title">Audit Committee</h3>
+            {/* <h3 style={{ marginTop: "10px", marginBottom: "-8px" }} className="sub-title">Audit Committee</h3>
 
             <div className="table-wrapper">
               <table>
@@ -229,8 +231,11 @@ const BaidMercantileLtd = () => {
                   </tr>
                 </tbody>
               </table>
-            </div>
+            </div> */}
+          
+          
           <div>
+            
             <br />
               
           </div>
