@@ -89,8 +89,7 @@ const BaidMercantileLtd = () => {
 
             <p style={{ marginTop: "-5px", fontSize: "12px", lineHeight: "1.2" }}>
               BAID MERCANTILES LTD is a Non-Banking Financial Company
-              incorporated under the Companies Act, 1956 and listed on
-              The Calcutta Stock Exchange Ltd. The Company is engaged in the business of making long-term and short-term investments, without accepting public deposits.
+              incorporated under the Companies Act, 1956. The Company is engaged  in the business of loans and making long-term and short-term investments, without accepting public deposits.
             </p>
 
             <h3 className="sub-title" style={{ marginTop: "0px", marginBottom: "5px" }}>Board of Directors</h3>
@@ -297,8 +296,8 @@ const BaidMercantileLtd = () => {
             </div>
 
             <div className="contact-box">
-              <p style={{ marginTop: "5px" }}><strong>Ms. Uma Agrawal</strong></p>
-              <p style={{ marginTop: "-20px" }}>Company Secretary & Compliance Officer</p>
+              <p style={{ marginTop: "5px" }}><strong>Mr. Joyesh Maitra Majumder</strong></p>
+              <p style={{ marginTop: "-20px" }}>Director</p>
               <p style={{ marginTop: "-20px" }}>Baid Mercantiles Limited</p>
               <p style={{ marginTop: "-20px" }}>Address: 58 Elliot Road, 2nd Floor, Kolkata – 700016</p>
               <p style={{ marginTop: "-20px" }}>E-mail Id: baidmercantiles1988@gmail.com</p>

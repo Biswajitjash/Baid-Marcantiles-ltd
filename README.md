@@ -1,6 +1,6 @@
 BAID MERCANTILES LIMITED
 CIN: L70109WB1988PLC044591
-BAID MERCANTILES LTD (“Company”) is a Non-Banking Financial Company incorporated under the Companies Act, 1956 and listed on The Calcutta Stock Exchange Ltd. The Company is engaged in the business of making long-term and short-term investments, without accepting public deposits.
+BAID MERCANTILES LTD (“Company”) is a Non-Banking Financial Company incorporated under the Companies Act, 1956. The Company is engaged in the business of making long-term and short-term investments, without accepting public deposits.
 
 Composition of Board of Directors
   
